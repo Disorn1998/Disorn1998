@@ -92,7 +92,7 @@
 <!-- 🧠 Soft Skills -->
 <h3>Soft Skills</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Communication-6A1B9A?style=flat&logo=google-meet&logoColor=white" height="25" alt="Communication"/>
+  <img src="https://img.shields.io/badge/Communication-6A1B9A?style=flat&logoColor=white" height="25" alt="Communication"/>
   <img src="https://img.shields.io/badge/Teamwork-03A9F4?style=flat&logoColor=white" height="25" alt="Teamwork"/>
   <img src="https://img.shields.io/badge/Marketing-FF9800?style=flat&logoColor=white" height="25" alt="Marketing"/>
   
