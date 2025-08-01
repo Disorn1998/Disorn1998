@@ -1,18 +1,17 @@
 <h1 align="center">Disorn Suppartum</h1>
-<h2 align="center">Computer Engineering student</h2>
+<h2 align="center">Computer Engineering Student</h2>
 <p align="center">
-  <strong>SOFTWARE ENGINEER· IT Specialist · QA ENGINEER</strong><br>
+  <strong>Software Engineer · IT Specialist · QA Engineer</strong><br>
   <em>Blending code, circuits, and creativity to make technology more human.</em>
 </p>
 
 ---
 
 ### 👤 About Me
-- 🎓 3rd-year Computer Engineering student @ Ramkhamhaeng University (GPA: 3.01)
-- 💡 Passionate about building meaningful tech — from embedded systems to educational tools
-- 🔧 Experienced in IoT development, Python, and Frontend web technologies
-- 👨‍🏫 Currently supporting tech education as IT & Teacher Assistant @ St. Mark’s International School
-- 🎬 Former photographer & video editor for commercial media in Thailand & Japan
+- 3rd-year Computer Engineering student at Ramkhamhaeng University 
+- Passionate : Highly motivated to continuously develop new skills and acquire knowledge through hands-on experience
+- Experienced : photographer & video editor for commercial media in Thailand & Japan
+- Currently:  supporting tech education as IT & Teacher Assistant at St. Mark’s International School
 
 ---
 
@@ -23,22 +22,22 @@
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  </a>
+
   <a href="https://devdocs.io/c/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  </a>
+
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  </a>
+
 </p>
 
 <!-- 🔌 IoT & Embedded -->
