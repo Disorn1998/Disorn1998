@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Disorn Suppartum</h1>
+<h2 align="center">Computer Engineering student</h2>
+<p align="center">
+  <strong>SOFTWARE ENGINEER· IT Specialist · QA ENGINEER</strong><br>
+  <em>Blending code, circuits, and creativity to make technology more human.</em>
+</p>
 
-<!--
-**Disorn1998/Disorn1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👤 About Me
+- 🎓 3rd-year Computer Engineering student @ Ramkhamhaeng University (GPA: 3.01)
+- 💡 Passionate about building meaningful tech — from embedded systems to educational tools
+- 🔧 Experienced in IoT development, Python, and Frontend web technologies
+- 👨‍🏫 Currently supporting tech education as IT & Teacher Assistant @ St. Mark’s International School
+- 🎬 Former photographer & video editor for commercial media in Thailand & Japan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Tech Stack & Toolset
+
+```bash
+Languages        : Python · C/C++ · HTML · CSS · JavaScript
+IoT & Hardware   : Arduino · ESP8266 · Sensors · ADC0832 · LED Matrix
+Tools & DevOps   : Git · GitHub · SQL · NetBeans · Figma · AutoCAD
+Creative Suite   : DSLR · Premiere Pro · Video Editing · Graphic Design
+Soft Skills      : Communication · Mentorship · Visual Thinking
