@@ -54,12 +54,18 @@
 <!-- 🧰 Dev Tools -->
 <h3>Dev Tools & Platforms</h3>
 <p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+</a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   </a>
+  <a href="https://www.postman.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
+</a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   </a>
@@ -70,36 +76,27 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
   </a>
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Autocad_logo.png" height="40" alt="AutoCAD"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/autocad/EE1C25" height="40" alt="AutoCAD"/>
+</a>
+  
 </p>
 
 <!-- 🎨 Creative -->
 <h3>Creative & Visual</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/DSLR-Photo-black?style=flat&logo=camera&logoColor=white" height="25" alt="DSLR"/>
-  </a>
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" height="25" alt="Premiere"/>
-  </a>
-    <img src="https://img.shields.io/badge/Video%20Editing-FF5722?style=flat&logo=adobe&logoColor=white" height="25" alt="Video Editing"/>
-  </a>
-    <img src="https://img.shields.io/badge/Graphic%20Design-3F3F3F?style=flat&logo=adobe-creative-cloud&logoColor=white" height="25" alt="Graphic Design"/>
-  </a>
+  <img src="https://img.shields.io/badge/DSLR%20Photography-black?style=flat&logo=canon&logoColor=white" height="25" alt="Photographer"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" height="25" alt="Video Editing"/>
+  <img src="https://img.shields.io/badge/Graphic%20Design-F44336?style=flat&logo=adobe-creative-cloud&logoColor=white" height="25" alt="Graphic Design"/>
 </p>
 
 <!-- 🧠 Soft Skills -->
 <h3>Soft Skills</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/Communication-6A1B9A?style=flat&logoColor=white" height="25" alt="Communication"/>
-  </a>
-    <img src="https://img.shields.io/badge/Mentorship-00796B?style=flat&logoColor=white" height="25" alt="Mentorship"/>
-  </a>
-    <img src="https://img.shields.io/badge/Teamwork-03A9F4?style=flat&logoColor=white" height="25" alt="Teamwork"/>
-  </a>
-    <img src="https://img.shields.io/badge/Visual%20Thinking-4CAF50?style=flat&logoColor=white" height="25" alt="Visual Thinking"/>
-  </a>
-   <img src="https://img.shields.io/badge/Marketing-FF9800?style=flat&logoColor=white" height="25" alt="Marketing"/>
-  </a>
+  <img src="https://img.shields.io/badge/Communication-6A1B9A?style=flat&logo=google-meet&logoColor=white" height="25" alt="Communication"/>
+  <img src="https://img.shields.io/badge/Teamwork-03A9F4?style=flat&logoColor=white" height="25" alt="Teamwork"/>
+  <img src="https://img.shields.io/badge/Marketing-FF9800?style=flat&logoColor=white" height="25" alt="Marketing"/>
+  
 </p>
+
 
 
