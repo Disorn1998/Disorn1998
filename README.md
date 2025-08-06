@@ -5,6 +5,7 @@
 </p>
 
 ---
+<img src="https://github.com/Disorn1998/Test1/blob/main/images/disorn1.png" alt="Banner" width="100%" />
 
 ### 👤 About Me
 - 3rd-year Computer Engineering student at Ramkhamhaeng University 
