@@ -1,10 +1,11 @@
 <img src="https://github.com/Disorn1998/Test1/blob/main/images/disorn1.png" alt="Banner" width="100%" />
 
 ### 👤 About Me
-- 3rd-year Computer Engineering student at Ramkhamhaeng University 
-- Passionate : Highly motivated to continuously develop new skills and acquire knowledge through hands-on experience
-- Currently:  supporting tech education as IT & Teacher Assistant at St. Mark’s International School
-- Experienced : photographer & video editor for commercial media in Thailand & Japan
+- 3rd-year Computer Engineering student at Ramkhamhaeng University
+-  Passionate about continuous learning through hands-on experience and self-development
+- Currently working as an IT & Teacher Assistant at St. Mark’s International School, supporting tech education
+- Experienced photographer and video editor for commercial media projects in Thailand and Japan
+- Career interests: Software Engineer, IT Specialist, and QA Engineer
 
 ---
 
