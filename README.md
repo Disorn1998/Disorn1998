@@ -1,10 +1,3 @@
-<h1 align="center">Disorn Suppartum</h1>
-<p align="center">
-  <strong>Software Engineer · IT Specialist · QA Engineer</strong><br>
-  <em>Contact for work : 📧 disorn.jp@gmail.com</em>
-</p>
-
----
 <img src="https://github.com/Disorn1998/Test1/blob/main/images/disorn1.png" alt="Banner" width="100%" />
 
 ### 👤 About Me
