@@ -1,7 +1,7 @@
 <img src="https://github.com/Disorn1998/Test1/blob/main/images/disorn1.png" alt="Banner" width="100%" />
 
 ### 👤 About Me
-- 3rd-year Computer Engineering student at Ramkhamhaeng University
+- 3rd-year Computer Engineering student at Ramkhamhaeng University in Thailand 
 -  Passionate about continuous learning through hands-on experience and self-development
 - Currently working as an IT & Teacher Assistant at St. Mark’s International School, supporting tech education
 - Experienced photographer and video editor for commercial media projects in Thailand and Japan
