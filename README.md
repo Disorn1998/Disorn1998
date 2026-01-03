@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/Disorn1998/Test1/blob/main/images/disorn1.png?raw=true" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);" />
+  <img src="https://github.com/Disorn1998/Test1/blob/main/images/disorn1.png?raw=true" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 0px 30px rgba(88, 166, 255, 0.4);" />
   
   <br />
   <br />
 
-  <h1>Hi, I'm <span style="color: #58A6FF;">Disorn Suppartum</span> 👋</h1>
+  <h1>Hi, I'm <span style="color: #58A6FF;">Disorn Suppartum</span> 👨🏻‍💻</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=IT+%26+Software+Engineer;Building+Scalable+Web+Apps;DevOps+Enthusiast;Creative+Content+Creator" alt="Typing SVG" />
@@ -27,6 +27,9 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
+</div>
 <br />
 
 ### About Me
@@ -39,17 +42,31 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
 * **Technical Focus:** Expanding expertise in DevOps Pipelines (Docker), IoT & Electronics, and Scalable Web Architecture.
 * **Creative Background:** Former Professional Video Editor & Photographer delivering commercial media for Thai and Japanese markets.
 * **Status:** Based in Thailand (Open to Remote & Hybrid Roles).
+
 <br />
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
+</div>
 
 ### 🛠️ The Arsenal
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Frontend** | ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white) |
-| **Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Terminal](https://img.shields.io/badge/Shell_/_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=openai&logoColor=white) |
-| **Creative Media** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) |
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react,html,css" /></a> |
+| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,python" /></a> |
+| **DevOps & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode" /></a> |
+| **Creative** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,pr,ps,ae,ai" /></a> |
 
+<br />
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Disorn1998&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  
+  <p style="color: #8B949E; font-size: 12px; margin-top: 10px;">
+    © 2026 Disorn Suppartum. Engineered for Performance.
+  </p>
+</div>
