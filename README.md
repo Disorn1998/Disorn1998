@@ -33,12 +33,12 @@
 
 > *"Simplicity is the ultimate sophistication."*
 
-[cite_start]I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* [cite: 7] and an **IT & Teacher Assistant** at *St. [cite_start]Mark’s International School*. I bridge the gap between robust backend logic and intuitive frontend design, with a strong background in **Digital Marketing** and **Media Production**[cite: 25, 31].
+[cite_start]I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* [cite: 7] and a multifaceted **IT Specialist** currently driving technical operations at *St. [cite_start]Mark’s International School*. My career is defined by bridging the gap between **Full-Stack Engineering** and **Creative Media**, leveraging deep experience in both software architecture and digital content production[cite: 2, 28, 32].
 
-* [cite_start]🔭 **Current Role:** IT Support, Network Admin, and TA for Robotics/Coding classes[cite: 20, 23].
-* 🌱 **Focus:** Mastering **DevOps Pipelines**, **Next.js Architecture**, and **IoT Systems**.
-* [cite_start]📸 **Creative:** Professional Photographer & Video Editor (Experience with Thai & Japanese clients).
-* [cite_start]📍 **Location:** Thailand (Open to Remote Work)[cite: 45, 46].
+* [cite_start]🔭 **Current Impact:** Managing school-wide IT infrastructure (Network/Hardware) and mentoring students as a **Teacher Assistant** in Robotics & Coding.
+* [cite_start]🌱 **Technical Focus:** Expanding expertise in **DevOps Pipelines (Docker)**, **IoT & Electronics**, and Scalable **Web Architecture**[cite: 54, 58].
+* [cite_start]📸 **Creative Background:** Former **Professional Video Editor & Photographer** delivering commercial media for Thai and Japanese markets[cite: 34, 35].
+* [cite_start]📍 **Status:** Based in **Thailand** (Open to Remote & Hybrid Roles)[cite: 45, 46].
 
 <br />
 
