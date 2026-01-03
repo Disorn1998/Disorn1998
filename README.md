@@ -31,13 +31,13 @@
 
 ### 👨‍💻 About Me
 
-> [cite_start]*"Simplicity is the ultimate sophistication."* [cite: 6]
+> *"Simplicity is the ultimate sophistication."*
 
-[cite_start]I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* [cite: 7] and an **IT & Teacher Assistant** at *St. Mark’s International School*[cite: 17]. [cite_start]I bridge the gap between robust backend logic and intuitive frontend design, with a strong background in **Digital Marketing** and **Media Production**[cite: 25, 31].
+[cite_start]I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* [cite: 7] and an **IT & Teacher Assistant** at *St. [cite_start]Mark’s International School*. I bridge the gap between robust backend logic and intuitive frontend design, with a strong background in **Digital Marketing** and **Media Production**[cite: 25, 31].
 
 * [cite_start]🔭 **Current Role:** IT Support, Network Admin, and TA for Robotics/Coding classes[cite: 20, 23].
 * 🌱 **Focus:** Mastering **DevOps Pipelines**, **Next.js Architecture**, and **IoT Systems**.
-* [cite_start]📸 **Creative:** Professional Photographer & Video Editor (Experience with Thai & Japanese clients)[cite: 34].
+* [cite_start]📸 **Creative:** Professional Photographer & Video Editor (Experience with Thai & Japanese clients).
 * [cite_start]📍 **Location:** Thailand (Open to Remote Work)[cite: 45, 46].
 
 <br />
@@ -45,12 +45,13 @@
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Disorn1998&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disorn1998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook" alt="Top Languages" />
-  </p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Disorn1998&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&currStreakLabel=58A6FF)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Disorn1998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook)
+
 </div>
 
 <br />
