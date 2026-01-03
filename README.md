@@ -29,17 +29,16 @@
 
 <br />
 
-###  About Me
+### About Me
 
-> *Knowledge starts in a small box but scales infinitely with creativity and passion to build impactful solutions."*
+> *"Knowledge starts in a small box but scales infinitely with creativity and passion to build impactful solutions."*
 
-I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University*  and a multifaceted **IT Specialist** currently driving technical operations at *St. Mark’s International School*. My career is defined by bridging the gap between **Full-Stack Engineering** and **Creative Media**, leveraging deep experience in both software architecture and digital content production.
+I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* and a multifaceted **IT Specialist** currently driving technical operations at *St. Mark’s International School*. My career defines the intersection of **Full-Stack Engineering** and **Creative Media**, bridging robust software architecture with compelling digital content production.
 
-  **Current Impact:** Managing school-wide IT infrastructure (Network/Hardware) and mentoring students as a **Teacher Assistant** in Robotics & Coding.
-  **Technical Focus:** Expanding expertise in **DevOps Pipelines (Docker)**, **IoT & Electronics**, and Scalable **Web Architecture**[cite: 54, 58].
-  **Creative Background:** Former **Professional Video Editor & Photographer** delivering commercial media for Thai and Japanese markets[cite: 34, 35].
- **Status:** Based in **Thailand** (Open to Remote & Hybrid Roles)[cite: 45, 46].
-
+* **Current Impact:** Managing school-wide IT infrastructure (Network/Hardware) and mentoring students as a Teacher Assistant in Robotics & Coding.
+* **Technical Focus:** Expanding expertise in DevOps Pipelines (Docker), IoT & Electronics, and Scalable Web Architecture.
+* **Creative Background:** Former Professional Video Editor & Photographer delivering commercial media for Thai and Japanese markets.
+* **Status:** Based in Thailand (Open to Remote & Hybrid Roles).
 <br />
 
 
@@ -53,21 +52,4 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Terminal](https://img.shields.io/badge/Shell_/_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=openai&logoColor=white) |
 | **Creative Media** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) |
 
-<br />
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :---: |
-| **Driver Fatigue AI** | [cite_start]Web-based system detecting drowsiness via EAR/MAR analysis & real-time alerts[cite: 12]. | `Python` `OpenCV` `MediaPipe` | ![Status](https://img.shields.io/badge/Prototype-yellow?style=flat-square) |
-| **School Web System** | [cite_start]Managed frontend content, curriculum updates, and A/V media for St. Mark's[cite: 21]. | `Web Admin` `CMS` `Media` | ![Status](https://img.shields.io/badge/Production-success?style=flat-square) |
-| **University Life App** | Smart tracking system concept for student lab equipment (Gemini Canvas). | `Next.js` `Supabase` `AI` | ![Status](https://img.shields.io/badge/Concept-blue?style=flat-square) |
-| **Personal Portfolio** | [cite_start]Responsive web portfolio showcasing dev & creative work[cite: 42]. | `HTML/CSS` `Vercel` | ![Status](https://img.shields.io/badge/Live-orange?style=flat-square) |
-
-<br />
-
-<div align="center">
-  <p style="color: #8B949E; font-size: 12px;">
-    © 2026 Disorn Suppartum. Engineered for Performance.
-  </p>
-</div>
