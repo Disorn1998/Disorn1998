@@ -24,43 +24,68 @@
 
 <br />
 
-<table>
+<table border="0" width="100%">
   <tr>
     <td width="60%" valign="top" style="border: none;">
-      
-### 👨‍💻 About Me
-I'm a **Computer Engineering Student** and **Tech Educator** passionate about building robust software solutions. I bridge the gap between complex backend logic and intuitive frontend design.
-
-* **Current Role:** IT & Teacher Assistant at *St. Mark’s International School*.
-* **Focus:** Mastering **DevOps pipelines** and **Full-Stack Architecture**.
-* **Background:** Experienced in Commercial Photography & Video Editing (Thailand/Japan).
-* **Philosophy:** *"Simplicity is the ultimate sophistication."*
-
+      <h3 style="margin-top: 0;">👨‍💻 About Me</h3>
+      <p>
+        I'm a <b>Computer Engineering Student</b> and <b>Tech Educator</b> passionate about building robust software solutions. I bridge the gap between complex backend logic and intuitive frontend design.
+      </p>
+      <ul>
+        <li><b>Current Role:</b> IT & Teacher Assistant at <i>St. Mark’s International School</i>.</li>
+        <li><b>Focus:</b> Mastering <b>DevOps pipelines</b> and <b>Full-Stack Architecture</b>.</li>
+        <li><b>Background:</b> Experienced in Commercial Photography & Video Editing (Thailand/Japan).</li>
+        <li><b>Philosophy:</b> <i>"Simplicity is the ultimate sophistication."</i></li>
+      </ul>
     </td>
     <td width="40%" valign="top" style="border: none;">
-
-### 📊 Weekly Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=Disorn1998&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide=stars" width="100%" />
-
+      <h3 style="margin-top: 0;">📊 Weekly Analytics</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Disorn1998&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide=stars" width="100%" alt="Disorn1998 Stats" />
+      </p>
     </td>
   </tr>
 </table>
 
----
+<hr/>
 
-### 🛠️ The Arsenal (Tech Stack)
+<h3>🛠️ The Arsenal (Tech Stack)</h3>
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Backend & DB** | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+<table width="100%">
+  <tr>
+    <td width="20%" align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><b>Backend & DB</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-### 🚀 Selected Projects
+<h3>🚀 Selected Projects</h3>
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th width="30%">Project</th>
@@ -74,7 +99,6 @@ I'm a **Computer Engineering Student** and **Tech Educator** passionate about bu
       <td>
         Real-time detection system analyzing EAR/MAR ratios to prevent accidents.
         <br />
-        <br />
         <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code>
       </td>
       <td align="center">
@@ -86,7 +110,6 @@ I'm a **Computer Engineering Student** and **Tech Educator** passionate about bu
       <td>
         Solution for tracking lab equipment & enhancing student life (Gemini Canvas concept).
         <br />
-        <br />
         <code>Next.js</code> <code>Supabase</code> <code>AI Integration</code>
       </td>
       <td align="center">
@@ -97,7 +120,6 @@ I'm a **Computer Engineering Student** and **Tech Educator** passionate about bu
       <td><b>LA MAI (Marketing)</b></td>
       <td>
         Produced commercial video content for organic fertilizer products.
-        <br />
         <br />
         <code>Premiere Pro</code> <code>After Effects</code>
       </td>
