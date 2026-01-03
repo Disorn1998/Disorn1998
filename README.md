@@ -67,6 +67,6 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
   <img src="https://komarev.com/ghpvc/?username=Disorn1998&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
   
   <p style="color: #8B949E; font-size: 12px; margin-top: 10px;">
-    © 2026 Disorn Suppartum. Engineered for Performance.
+    © 2026 Disorn Suppartum
   </p>
 </div>
