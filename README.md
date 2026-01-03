@@ -42,19 +42,7 @@
 
 <br />
 
-### 📊 Engineering Metrics
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Disorn1998&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&currStreakLabel=58A6FF)
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Disorn1998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook)
-
-</div>
-
-<br />
 
 ### 🛠️ The Arsenal
 
