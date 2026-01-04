@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <h1>Hi, I'm <span style="color: #58A6FF;">Disorn Suppartum</span> 👨🏻‍💻</h1>
+  <h1>Hi, I'm <span style="color: #58A6FF;">👨🏻‍💻</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=IT+%26+Software+Engineer;Building+Scalable+Web+Apps;DevOps+Enthusiast;Creative+Content+Creator" alt="Typing SVG" />
