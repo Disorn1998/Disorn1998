@@ -61,24 +61,24 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
   
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
+  
   <br/><br/>
-
-  <h3>Let's Connect</h3>
+  
+  <a href="https://github.com/Disorn1998">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Disorn1998&theme=tokyonight&hide_border=true&stroke=58A6FF&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" />
+  </a>
+  
+  <br/>
 
   <p>
-    <a href="https://www.linkedin.com/in/disornspt">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=Disorn1998&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
     &nbsp;
-    <a href="https://github.com/Disorn1998">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="mailto:disorn.jp@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://github.com/Disorn1998?tab=repositories&sort=stargazers">
+       <img src="https://img.shields.io/github/stars/Disorn1998?style=flat-square&color=58A6FF&label=Total%20Stars" />
     </a>
   </p>
   
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Disorn1998&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  <p style="color: #8B949E; font-size: 12px;">
+    <i>Thanks for visiting! Feel free to reach out.</i>
+  </p>
 </div>
