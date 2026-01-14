@@ -69,16 +69,8 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
   </a>
   
   <br/>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Disorn1998&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-    &nbsp;
-    <a href="https://github.com/Disorn1998?tab=repositories&sort=stargazers">
-       <img src="https://img.shields.io/github/stars/Disorn1998?style=flat-square&color=58A6FF&label=Total%20Stars" />
-    </a>
-  </p>
   
   <p style="color: #8B949E; font-size: 12px;">
-    <i>Thanks for visiting! Feel free to reach out.</i>
+    <i>Let's build something amazing together!</i>
   </p>
 </div>
