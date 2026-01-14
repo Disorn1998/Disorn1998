@@ -73,7 +73,7 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
   
 
 <div align="center">
-  <img src="hacker.svg" width="100%" alt="RGB Header">
+  <img src="hacker_header.svg" width="100%" alt="Hacker Header">
 </div>
 
   <br/>
