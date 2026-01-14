@@ -58,7 +58,14 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
 | **DevOps & Cloud** | <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> | <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a> <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" /></a> <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a> <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" /></a> <a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" /></a> |
 | **Creative** | <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a> <a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr" /></a> <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a> <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://skillicons.dev/icons?i=ae" /></a> <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" /></a> | <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" /></a> <a href="https://threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" /></a> |
 
-  
+
+<div align="center">
+  <img src="hacker_header.svg" width="100%" alt="Hacker Header">
+</div>
+
+  <br/>
+</div>
+
 <div align="center">
   
   <br/>
@@ -70,14 +77,6 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
        <img src="https://img.shields.io/github/stars/Disorn1998?style=flat-square&color=58A6FF&label=Total%20Stars" />
     </a>
   </p>
-  
-
-<div align="center">
-  <img src="hacker_header.svg" width="100%" alt="Hacker Header">
-</div>
-
-  <br/>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
