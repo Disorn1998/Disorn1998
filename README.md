@@ -53,7 +53,7 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
 
 | **Category** | **Current Weapon (2024-2025)** | **Next Level Arsenal (2026)** |
 | :--- | :--- | :--- |
-| **Frontend & Mobile** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react,html,css" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=expo,jest,graphql" /></a><br/>*(React Native, Testing)* |
+| **Frontend & Mobile** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react,html,css" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=exp0o,jest,graphql" /></a>
 | **Backend & AI** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,python" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,redis" /></a><br/>*(AI Integration, Vector DB)* |
 | **DevOps & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,terraform,cypress" /></a><br/>*(Cloud Scaling, E2E Test)* |
 | **Creative** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,pr,ps,ae,ai" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,threejs" /></a><br/>*(3D & Interactive Web)* |
