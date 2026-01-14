@@ -61,7 +61,7 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
   
  <div align="center">
 
- <br />
+<br/>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Disorn1998&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
@@ -71,7 +71,11 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
     </a>
   </p>
   
-  <p style="color: #8B949E; font-size: 14px; font-weight: 400;">
-    <i>"Let's build something amazing together."</i>
+  <br/>
+  <p style="font-size: 16px; font-weight: 500; color: #8B949E;">
+      Let's build something 
+      <span style="color: #58A6FF; font-weight: bold; font-size: 18px;">amazing</span>
+      together!
   </p>
+  <br/>
 </div>
