@@ -59,5 +59,10 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
 | **Creative** | <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a> <a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr" /></a> <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a> <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://skillicons.dev/icons?i=ae" /></a> <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" /></a> | <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" /></a> <a href="https://threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" /></a> |
 
   
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
+  
+  <br/><br/>
+  
   <img src="https://komarev.com/ghpvc/?username=Disorn1998&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 </div>
