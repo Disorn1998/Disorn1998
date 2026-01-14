@@ -51,12 +51,26 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
 
 ### ⚙️ Tools
 
-| **Category** | **Technologies** | **Currently Learning 🚀** |
+| **Category** | **Technologies** | **Currently Learning ** |
 | :--- | :--- | :--- |
 | **Frontend & Mobile** | <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a> <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a> | <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" /></a> <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" /></a> |
 | **Backend & AI** | <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" /></a> <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a> | <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a> <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a> <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" /></a> |
 | **DevOps & Cloud** | <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> | <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a> <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" /></a> <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a> <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" /></a> <a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress" /></a> |
 | **Creative** | <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a> <a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr" /></a> <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a> <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://skillicons.dev/icons?i=ae" /></a> <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" /></a> | <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" /></a> <a href="https://threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" /></a> |
+
+<br />
+
+<div align="center">
+  <h2>📊 Coding Activity</h2>
+  <br>
+  <a href="https://github.com/Disorn1998">
+    <img src="https://github-readme-stats.vercel.app/api?username=Disorn1998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="180" alt="stats graph" />
+  </a>
+  
+  <a href="https://github.com/Disorn1998">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disorn1998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="180" alt="languages graph" />
+  </a>
+</div>
 <br />
 
 <div align="center">
@@ -64,6 +78,4 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
   <br/><br/>
   
   <img src="https://komarev.com/ghpvc/?username=Disorn1998&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-  
-
 </div>
