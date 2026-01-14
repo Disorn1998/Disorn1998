@@ -1,5 +1,6 @@
 <svg fill="none" viewBox="0 0 900 350" width="900" height="350" xmlns="http://www.w3.org/2000/svg">
   <style>
+    /* --- ส่วน RGB Text ด้านบน --- */
     .rgb-text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       font-size: 30px;
@@ -16,12 +17,8 @@
     }
     @keyframes rgb-flow { to { background-position: 200% center; } }
 
-    .matrix-bg { 
-        font-family: 'Courier New', monospace; 
-        font-size: 14px; 
-        fill: #0F0; 
-        opacity: 0.6; 
-    }
+    /* --- ส่วน Matrix Rain --- */
+    .matrix-bg { font-family: 'Courier New', monospace; font-size: 14px; fill: #0F0; opacity: 0.6; }
     .rain-col-1 { animation: rain 2s linear infinite; }
     .rain-col-2 { animation: rain 3s linear infinite; animation-delay: 0.5s; }
     .rain-col-3 { animation: rain 2.5s linear infinite; animation-delay: 1s; }
@@ -34,13 +31,11 @@
       100% { transform: translateY(300px); opacity: 0; }
     }
 
-    .monitor-frame { fill: #222; stroke: #444; }
+    /* --- ส่วน Hacker & Glitch --- */
+    .hoodie-body { fill: #111; stroke: #333; stroke-width: 2; }
     .screen-glow { fill: url(#glowGradient); opacity: 0.6; mix-blend-mode: overlay; }
-
-    @keyframes blink {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0; }
-    }
+    .monitor-frame { fill: #222; stroke: #444; }
+    .code-text { font-family: monospace; font-size: 10px; fill: #0f0; }
   </style>
 
   <defs>
@@ -59,24 +54,25 @@
   </foreignObject>
 
   <g transform="translate(50, 80)">
-    <text x="50" y="0" class="matrix-bg rain-col-1" style="writing-mode: tb;">101010</text>
-    <text x="150" y="-50" class="matrix-bg rain-col-2" style="writing-mode: tb;">SYSTEM</text>
-    <text x="700" y="-20" class="matrix-bg rain-col-3" style="writing-mode: tb;">0xFF</text>
-    <text x="800" y="-80" class="matrix-bg rain-col-4" style="writing-mode: tb;">HACK</text>
-    <text x="600" y="0" class="matrix-bg rain-col-1" style="writing-mode: tb;">110011</text>
-    <text x="250" y="-60" class="matrix-bg rain-col-3" style="writing-mode: tb;">ROOT</text>
+    <text x="50" y="0" class="matrix-bg rain-col-1" writing-mode="tb">10101010</text>
+    <text x="150" y="-50" class="matrix-bg rain-col-2" writing-mode="tb">SYSTEM_OK</text>
+    <text x="700" y="-20" class="matrix-bg rain-col-3" writing-mode="tb">0xFF02A</text>
+    <text x="800" y="-80" class="matrix-bg rain-col-4" writing-mode="tb">HACKING...</text>
+    <text x="600" y="0" class="matrix-bg rain-col-1" writing-mode="tb">11001100</text>
+    <text x="250" y="-60" class="matrix-bg rain-col-3" writing-mode="tb">ROOT_ACCESS</text>
   </g>
 
   <g transform="translate(325, 120)">
+    
     <rect x="10" y="0" width="230" height="140" class="monitor-frame" rx="5"/>
     <rect x="15" y="5" width="220" height="130" fill="#000"/>
     
     <foreignObject x="20" y="10" width="210" height="120">
       <div xmlns="http://www.w3.org/1999/xhtml" style="color:#0f0; font-family:monospace; font-size:10px; overflow:hidden;">
-        &gt; git commit -m "init"<br/>
-        &gt; git push origin main<br/>
-        &gt; deploy --prod<br/>
-        &gt; status: <span style="color:#fff; animation: blink 1s step-end infinite">ONLINE_</span>
+        > git commit -m "init"<br/>
+        > git push origin main<br/>
+        > deploy --prod<br/>
+        > status: <span style="color:#fff; animation: blink 1s infinite">ONLINE_</span>
       </div>
     </foreignObject>
 
@@ -86,6 +82,8 @@
     <path d="M60,250 C60,150 190,150 190,250" fill="#0a0a0a" stroke="#222" stroke-width="2"/> 
     <path d="M60,240 C20,260 0,300 0,350 L250,350 C250,300 230,260 190,240" fill="#0a0a0a"/>
     <ellipse cx="125" cy="210" rx="35" ry="40" fill="#000"/>
+    
     <ellipse cx="125" cy="210" rx="35" ry="40" class="screen-glow"/>
   </g>
+
 </svg>
