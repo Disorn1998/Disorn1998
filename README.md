@@ -71,7 +71,8 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
     </a>
   </p>
   
-  div align="center">
+
+<div align="center">
   <img src="header.svg" width="100%" alt="RGB Header">
 </div>
 
