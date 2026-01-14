@@ -79,3 +79,7 @@ I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* 
   </p>
   <br/>
 </div>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=IT+%26+Software+Engineer;Building+Scalable+Web+Apps;DevOps+Enthusiast;Creative+Content+Creator" alt="Typing SVG" />
+  </a>
