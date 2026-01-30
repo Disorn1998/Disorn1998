@@ -36,7 +36,7 @@
 
 > *"Knowledge starts in a small box but scales infinitely with creativity and passion to build impactful solutions."*
 
-I am a **Computer Engineering Student** (GPA 3.04) at *Ramkhamhaeng University* and a multifaceted **IT Specialist** currently driving technical operations at *St. Mark’s International School*. My career defines the intersection of **Full-Stack Engineering** and **Creative Media**, bridging robust software architecture with compelling digital content production.
+I am a **Computer Engineering Student** at *Ramkhamhaeng University* and a multifaceted **IT Specialist** currently driving technical operations at *St. Mark’s International School*. My career defines the intersection of **Full-Stack Engineering** and **Creative Media**, bridging robust software architecture with compelling digital content production.
 
 * **Current Impact:** Managing school-wide IT infrastructure (Network/Hardware) and mentoring students as a Teacher Assistant in Robotics & Coding.
 * **Technical Focus:** Expanding expertise in DevOps Pipelines (Docker), IoT & Electronics, and Scalable Web Architecture.
