@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Disorn1998/Test1/blob/main/images/disorn1.png?raw=true" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 0px 30px rgba(88, 166, 255, 0.4);" />
-  
+  <img width="1500" height="500" alt="disorn1 (1)" src="https://github.com/user-attachments/assets/47365935-9c65-4766-bf95-b1c8c3e47e97" />
+
   <br />
   <br />
 
