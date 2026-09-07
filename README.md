@@ -43,6 +43,8 @@ I am a **Computer Engineering Student** at *Ramkhamhaeng University* and a multi
 * **Creative Background:** Former Professional Video Editor & Photographer delivering commercial media for Thai and Japanese markets.
 * **Status:** Based in Thailand (Open to Remote & Hybrid Roles).
 
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ca558b80-4df6-45a0-b50b-87d695c41714.jpeg?v=1788764122)](https://www.boot.dev/certificates/ca558b80-4df6-45a0-b50b-87d695c41714)
+
 <br />
 
 <div align="center">
