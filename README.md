@@ -32,18 +32,28 @@
 </div>
 <br />
 
-### About Me
+### ⚡ About Me
 
-> *"Knowledge starts in a small box but scales infinitely with creativity and passion to build impactful solutions."*
+Computer Engineer and Full-Stack Builder working at the intersection of scalable web systems, cloud infrastructure, and embedded hardware. Currently driving IT operations and infrastructure at St. Mark’s International School while engineering intelligent IoT and web solutions.
 
-I am a **Computer Engineering Student** at *Ramkhamhaeng University* and a multifaceted **IT Specialist** currently driving technical operations at *St. Mark’s International School*. My career defines the intersection of **Full-Stack Engineering** and **Creative Media**, bridging robust software architecture with compelling digital content production.
+* **Systems & Backend:** `Go` `Python` `TypeScript` `PostgreSQL` `Supabase`
+* **Cloud & DevOps:** `Docker` `Linux Server` `Cloudflare` `CI/CD`
+* **Embedded & AIoT:** `C/C++` `Raspberry Pi` `Arduino` `PLC`
 
-* **Current Impact:** Managing school-wide IT infrastructure (Network/Hardware) and mentoring students as a Teacher Assistant in Robotics & Coding.
-* **Technical Focus:** Expanding expertise in DevOps Pipelines (Docker), IoT & Electronics, and Scalable Web Architecture.
-* **Creative Background:** Former Professional Video Editor & Photographer delivering commercial media for Thai and Japanese markets.
-* **Status:** Based in Thailand (Open to Remote & Hybrid Roles).
+#### 🏆 Selected Highlights
+* **1st Place Winner** — AIoT Innovation Pitching & Showcase 2026 (Driver Drowsiness Detection System)
+* **Google Ambassador Thailand** — Gemini Achiever Level (Top 20 Finalist Nationwide)
+* **Fellow** — Super AI Engineer Season 5[cite: 1]
 
-[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ca558b80-4df6-45a0-b50b-87d695c41714.jpeg?v=1788764122)](https://www.boot.dev/certificates/ca558b80-4df6-45a0-b50b-87d695c41714)
+---
+📍 **Bangkok, Thailand** • Open to Software Engineering, Cloud/DevOps & Full-Stack roles (Remote / Hybrid)  
+🌐 [disorn.dev](https://www.disorn.dev) • ✉️ [contact@disorn.dev](mailto:contact@disorn.dev)
+
+<div align="center">
+
+<img width="1403" height="992" alt="CERTIFICATE" src="https://github.com/user-attachments/assets/2bc29ca5-6769-447d-9a20-a7e1d349932d" />
+
+</div>
 
 <br />
 
