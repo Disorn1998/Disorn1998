@@ -43,7 +43,7 @@ Computer Engineer and Full-Stack Builder working at the intersection of scalable
 #### 🏆 Selected Highlights
 * **1st Place Winner** — AIoT Innovation Pitching & Showcase 2026 (Driver Drowsiness Detection System)
 * **Google Ambassador Thailand** — Gemini Achiever Level (Top 20 Finalist Nationwide)
-* **Fellow** — Super AI Engineer Season 5[cite: 1]
+* **Fellow** — Super AI Engineer Season 5
 
 ---
 📍 **Bangkok, Thailand** • Open to Software Engineering, Cloud/DevOps & Full-Stack roles (Remote / Hybrid)  
